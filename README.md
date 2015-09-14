@@ -1,11 +1,11 @@
-###**Pre-work Tip Calculator for Codepath**
+###Pre-work Tip Calculator for Codepath
 This application is an exercise to complete the application to Codepath's iOS for Designers bootcamp. 
 
 Time: I spent around 2 hours on the exercise
 
-##What does the app can do?
+##What does the app do?
 
-Calculates tip for a given bill - 3 tip options provided.
+* [x] Required: The user can calculate the tip, using diferent percentages 
 
 ##Video Walkthrough
 
