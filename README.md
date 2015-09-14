@@ -9,6 +9,8 @@ Calculates tip for a given bill - 3 tip options provided.
 
 ##Video Walkthrough
 
+![Output sample] (file:///Users/erowan/Google%20Drive/CodePath/tips/Tip_Calc_Demo.gif)
+
 ##What did I miss?
 I tried to mess around with animations & with an alternative tip calculator that would calculate a tip that would result in a total bill with a round number. However, I ended up getting an error that I couldn't resolve & so I went back to the basic calculator to submit.
 
