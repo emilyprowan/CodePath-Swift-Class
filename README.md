@@ -5,7 +5,7 @@ Time: I spent around 2 hours on the exercise
 
 ##What does the app do?
 
-* [x] Required: The user can calculate the tip, using diferent percentages 
+* [x] Required: The user can calculate the tip, using different percentages 
 
 ##Video Walkthrough
 
